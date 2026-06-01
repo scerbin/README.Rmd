@@ -1,4 +1,4 @@
-# README.Rmd
+# README.md
 About me
 
 ## Current Position
