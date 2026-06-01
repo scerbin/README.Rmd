@@ -20,7 +20,7 @@ University of Kansas - Department of Ecology and Evolutionary Biology
 
 Michigan State University - Department of Horticulture
 
-DSM Food Specialties (Currently DSM-Firmenich)
+DSM Food Specialties (Merged in 2023 forming DSM-Firmenich)
 
 ## Links
 [Google Scholar](https://scholar.google.com/citations?user=MDMzaIQAAAAJ&hl=en)
