@@ -4,6 +4,18 @@ About me
 ## Current Position
 Bioinformatician Gemma Biotherapeutics
 
+### Projects
+- Short read analysis
+- Long read analysis
+- RNA-seq
+- miRNA analysis
+- Data mining
+- Genome assembly
+- Gene therapy
+- INDEL analysis
+- Editing analysis
+- CRISPR Catch
+
 ## Skills
 - Pipeline development
 - Data Analysis
